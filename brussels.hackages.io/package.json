@@ -7,6 +7,7 @@
     "test": "hackages test",
     "run:watch": "hackages watch",
     "run:live": "hackages live",
+    "live":" live-server",
     "start": "npm-run-all --parallel run:watch run:live "
   },
   "keywords": [],

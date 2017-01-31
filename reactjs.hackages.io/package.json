@@ -1,0 +1,20 @@
+{
+  "name": "reactjs.hackcamp",
+  "version": "0.0.1",
+  "description": "hackcamp reactjs in Dubin",
+  "main": "index.js",
+  "scripts": {
+    "test": "hackages test",
+    "watch": "hackages watch",
+    "deploy": "surge .",
+    "live": "hackages live",
+    "start": "npm-run-all --parallel watch live "
+  },
+  "keywords": [],
+  "author": "davy@hackages.io",
+  "license": "MIT",
+  "devDependencies": {
+    "hackages": "0.0.8",
+    "npm-run-all": "^4.0.1"
+  }
+}
