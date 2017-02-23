@@ -1,7 +1,7 @@
 {
-  "name": "reactjs.hackcamp",
+  "name": "react-native.hackcamp",
   "version": "0.0.1",
-  "description": "hackcamp reactjs in Dubin",
+  "description": "hackcamp react native in Brussels",
   "main": "index.js",
   "scripts": {
     "test": "hackages test",
