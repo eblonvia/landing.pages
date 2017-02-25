@@ -8,6 +8,7 @@
     "watch": "hackages watch",
     "deploy": "surge .",
     "live": "hackages live",
+    "prestart":"npm i",
     "start": "npm-run-all --parallel watch live "
   },
   "keywords": [],
